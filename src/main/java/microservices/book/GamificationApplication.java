@@ -9,6 +9,7 @@ public class GamificationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GamificationApplication.class, args);
 		//second commit
+		//third commit
 	}
 
 }
